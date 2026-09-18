@@ -31,10 +31,10 @@ export default function Contact() {
             <div>
               <p className="text-sm text-slate-400">Social</p>
               <div className="mt-2 flex gap-4 text-sm text-cyan-300">
-                <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-cyan-200">
+                <a href="https://github.com/nuruzzaman5595" target="_blank" rel="noreferrer" className="hover:text-cyan-200">
                   GitHub
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="hover:text-cyan-200">
+                <a href="https://facebook.com" target="_blank" rel="noreferrer" className="hover:text-cyan-200">
                   LinkedIn
                 </a>
               </div>
