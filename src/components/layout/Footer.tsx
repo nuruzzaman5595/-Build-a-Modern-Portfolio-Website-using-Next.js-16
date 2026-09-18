@@ -14,7 +14,7 @@ export default function Footer() {
         <div>
           <div className="flex items-center gap-3">
             <img
-              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80"
+              src="/images/nayon.jpeg"
               alt="Nayon profile"
               className="h-11 w-11 rounded-full object-cover ring-2 ring-cyan-400/70"
             />

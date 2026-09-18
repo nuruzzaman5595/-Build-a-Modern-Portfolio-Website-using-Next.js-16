@@ -15,7 +15,7 @@ export default function Navbar() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center gap-3">
           <img
-            src="https://nextjs/public/images/nayon.jpeg"
+            src="/images/nayon.jpeg"
             alt="Nayon profile"
             className="h-11 w-11 rounded-full object-cover ring-2 ring-cyan-400/70"
           />
