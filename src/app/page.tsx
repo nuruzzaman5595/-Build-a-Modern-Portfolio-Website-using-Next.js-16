@@ -1,14 +1,17 @@
-import About from '@/components/home/About'
-import React from 'react'
+import About from "@/components/home/About";
+import Contact from "@/components/home/Contact";
+import Home from "@/components/home/Home";
+import Project from "@/components/home/Project";
+import Skills from "@/components/home/Skills";
 
-const page = () => {
+export default function Page() {
   return (
     <>
-    <div>
-       <About />
-      </div>
+      <Home />
+      <About />
+      <Project />
+      <Skills />
+      <Contact />
     </>
-  )
+  );
 }
-
-export default page
